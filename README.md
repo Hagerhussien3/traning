@@ -1,8 +1,8 @@
-# 🛒 Fawry Rise Journey - E-Commerce System
+# 🛒  E-Commerce System
 
 ## 📌 Overview
 
-This project is a full-stack e-commerce system designed as part of the **Fawry Rise Journey Internship Challenge**. The system supports product management, shopping cart functionality, expiration and shipping rules, and secure checkout with validation.
+This project is a  system supports product management, shopping cart functionality, expiration and shipping rules, and secure checkout with validation.
 
 ---
 
