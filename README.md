@@ -43,7 +43,7 @@ This project is a  system supports product management, shopping cart functionali
 
 ## 🔧 Technologies Used
 
-- Java / C# / Python (choose your implementation language)
+- Java 
 - Console-based UI (for simplicity)
 - Object-Oriented Programming principles
 - Interfaces / Abstract Classes
